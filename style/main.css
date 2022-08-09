@@ -157,6 +157,12 @@ header {
   color: #333D4B;
 }
 
+.section_cofee-been {
+  height: 577px;
+  background-color: #333D4B;
+  border-radius: 9px;
+}
+
 @media only screen and (max-width: 1373px) {
   .main_section-text {
     padding-top: 66px;
@@ -436,5 +442,30 @@ header {
   }
   .nav_right > i {
     display: block;
+  }
+  .section-2-card1 {
+    display: block;
+    margin-left: 30px;
+    margin-left: 46px;
+    padding-top: 43px;
+  }
+  .ma {
+    margin-top: -43px;
+  }
+  .section-2-cardccc :first-child {
+    font-size: 21px;
+    text-align: center;
+    width: 252%;
+    padding: 0 10px;
+  }
+  .section-2-card1 :last-child {
+    line-height: 15px;
+    font-size: 13px;
+    padding: 5px 10px;
+    text-align: center;
+  }
+  .section-2-card1 > img {
+    width: 216%;
+    margin-left: 93px;
   }
 }/*# sourceMappingURL=main.css.map */
